@@ -1,4 +1,0 @@
-C#
-Lua
-Python
-JavaScript
