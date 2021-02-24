@@ -148,3 +148,19 @@ h2{
 
 }
 
+
+p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 1%;
+    color: white;
+}
+
+article{
+    display: block;
+    max-width: 900px;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 500px;
+}
+
