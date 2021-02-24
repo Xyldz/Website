@@ -98,8 +98,8 @@ button{
 }
 
 .box div:nth-child(2){
-    top: 70%;
-    left: 50%;
+    top: 90%;
+    left: 90%;
     animation: animate 7s linear infinite;
 }
 
@@ -164,14 +164,31 @@ button{
 
 }
 
-.information{
+p{
     font-size: 20px;
     color: white;
-}
-
-p{
-    margin-top: 1em; /* em= means relative font size so 2em means that is 2 times the size of the current font*/
+    margin-top: 1em; /* em(current font size) = means relative font size so 2em means that is 2 times the size of the current font*/
     margin-bottom: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px; 
+}
+
+
+article{
+    display: block;
+    max-width: 900px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    box-shadow: 10px 10px 30px black;
+    border-radius: 20px;
+}
+
+h4{
+    margin-left: 830px;
+    color: white;
 }
