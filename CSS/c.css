@@ -192,3 +192,16 @@ h4{
     margin-left: 830px;
     color: white;
 }
+
+.myDiv{
+    display: flex;
+    flex-direction: row;
+    max-width: 300px;
+    
+}
+
+.myDiv .myDiv2{
+    display: flex;
+    flex-direction: column;
+    color:red;
+}
