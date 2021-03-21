@@ -182,21 +182,21 @@ article{
 }
 
 img{
-    width: 500px;
-    height: 500px;
+    width: 250px;
+    height: 250px;
     box-shadow: 10px 10px 30px black;
     border-radius: 20px;
 }
 
 h4{
-    margin-left: 830px;
+
     color: white;
 }
 
 .myDiv{
     display: flex;
     flex-direction: row;
-    max-width: 300px;
+
     
 }
 
@@ -204,4 +204,6 @@ h4{
     display: flex;
     flex-direction: column;
     color:red;
+    max-width: 300px;
+    padding: 10px;
 }
